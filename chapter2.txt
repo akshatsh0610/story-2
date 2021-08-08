@@ -1,2 +1,4 @@
 hy chapter2
 version 1
+alin plot 
+modification in chapter 2done
